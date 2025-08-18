@@ -35,9 +35,6 @@ Dojo OS ties it all together—one login, one profile, one Dojo-Score—so every
 ---
 
 ## 🤝 Contributing
-
-![Hackathon Event](../assets/hackathon.jpg)
-
 Dojo Coding is **community-powered**. You can:  
 - Join discussions and help fellow developers.  
 - Contribute to open-source projects and playbooks.  
