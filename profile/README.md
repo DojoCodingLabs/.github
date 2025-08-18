@@ -1,5 +1,7 @@
 # 🥋 Dojo Coding
 
+![Dojo Coding Logo](../assets/logo.png)
+
 Welcome to **Dojo Coding** — a LATAM-first tech education ecosystem designed to help developers break salary barriers, master emerging technologies, and become founders.  
 
 Our mission is simple:  
@@ -7,25 +9,33 @@ Our mission is simple:
 
 ---
 
-🚀 What We Do
-	•	🎓 Academy (Pathways) — Master Web3, AI, and OSS with structured tracks, graded PRs, hackathons, and a portfolio that builds your Dojo-Score.
-	•	🧑‍💻 Projects (Staffing) — Get staffed on paid, real-world pods or hire vetted teams. Scoping, matching, delivery tracking, and payouts in one flow.
-	•	🚀 Launchpad (Incubation) — Turn ideas into products with mentors, startup playbooks, demo days, and investor access.
-	•	🌐 Network & Events — Join a high-signal community: meet peers, partners, and enterprise buyers through hackathons, workshops, and partner programs.
+## 🚀 What We Do
+
+![Hackathon Event](../assets/hackathon.jpg)
+
+- 🎓 **Academy (Pathways)** — Master Web3, AI, and OSS with structured tracks, graded PRs, hackathons, and a portfolio that builds your Dojo-Score.
+- 🧑‍💻 **Projects (Staffing)** — Get staffed on paid, real-world pods or hire vetted teams. Scoping, matching, delivery tracking, and payouts in one flow.
+- 🚀 **Launchpad (Incubation)** — Turn ideas into products with mentors, startup playbooks, demo days, and investor access.
+- 🌐 **Network & Events** — Join a high-signal community: meet peers, partners, and enterprise buyers through hackathons, workshops, and partner programs.
 
 Dojo OS ties it all together—one login, one profile, one Dojo-Score—so every action (learning, shipping, selling) compounds your reputation and opportunity.
+
+![Startup House](../assets/startuphouse.jpg)
 
 ---
 
 ## 🔑 Get Started
-- 🌐 Explore our academy → [academy.dojocoding.io](https://dojocoding.io/pathways)  
+- 🌐 Explore our academy → [academy.dojocoding.io](https://dojocoding.io/pathways)
 - 🏠 Join the community → [dojocoding.io](https://dojocoding.io)
-- 🏠 Join our bootcamp → [dojocoding.io](https://bootcamp.dojocoding.io)    
-- 📣 Follow us on X → [@dojo_coding](https://x.com/dojo_coding)  
+- 🏠 Join our bootcamp → [bootcamp.dojocoding.io](https://bootcamp.dojocoding.io)
+- 📣 Follow us on X → [@dojo_coding](https://x.com/dojo_coding)
 
 ---
 
 ## 🤝 Contributing
+
+![Hackathon Event](../assets/hackathon.jpg)
+
 Dojo Coding is **community-powered**. You can:  
 - Join discussions and help fellow developers.  
 - Contribute to open-source projects and playbooks.  
