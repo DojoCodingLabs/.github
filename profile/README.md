@@ -1,6 +1,8 @@
 # 🥋 Dojo Coding
 
-![Dojo Coding Logo](../assets/logo.png)
+<div align="center">
+  <img src="../assets/logo.png" alt="Dojo Coding Logo" width="200">
+</div>
 
 Welcome to **Dojo Coding** — a LATAM-first tech education ecosystem designed to help developers break salary barriers, master emerging technologies, and become founders.  
 
