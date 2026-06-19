@@ -27,9 +27,8 @@ Dojo OS ties it all together—one login, one profile, one Dojo-Score—so every
 ---
 
 ## 🔑 Get Started
-- 🌐 Explore our academy → [academy.dojocoding.io](https://dojocoding.io/pathways)
+- 🌐 Explore our academy → [dojocoding.io](https://dojocoding.io/pathways)
 - 🏠 Join the community → [dojocoding.io](https://dojocoding.io)
-- 🏠 Join our bootcamp → [bootcamp.dojocoding.io](https://bootcamp.dojocoding.io)
 - 📣 Follow us on X → [@dojo_coding](https://x.com/dojo_coding)
 
 ---
