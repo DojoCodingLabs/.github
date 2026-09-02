@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/logo.png" alt="Dojo Coding" width="200">
+  <img src="https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/logo.png" alt="Dojo Coding" width="200">
 
   <h1>Dojo Coding</h1>
 
@@ -40,7 +40,7 @@ Naming, for the record: **Dojo Coding** (two words) is the company. **Dojo** (on
 
 ## 🚀 What we do
 
-![Hackathon Event](../assets/hackathon.jpg)
+![Hackathon Event](https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/hackathon.jpg)
 
 ### The studio · [dojocoding.io](https://dojocoding.io)
 
@@ -68,7 +68,7 @@ One agent, one profile, one Dojo Score. Every verified action compounds into a r
 
 **Learn. Earn. Compete. Launch.**
 
-![Startup House](../assets/startuphouse.jpg)
+![Startup House](https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/startuphouse.jpg)
 
 ---
 
@@ -119,7 +119,7 @@ We build in the open. Every public repo here takes issues and pull requests.
 - Send a pull request to any toolkit or plugin. Small and shippable beats large and pending.
 - Build with us at a hackathon.
 
-Contributing guidelines: [CONTRIBUTING.md](CONTRIBUTING.md) *(coming soon)*.
+Contributing guidelines: `CONTRIBUTING.md` *(coming soon)*.
 
 ---
 
