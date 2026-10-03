@@ -1,0 +1,21 @@
+# The org profile banner (profile/README.md). Rebuild with:
+#   uvx --from "git+https://github.com/DojoCodingLabs/.github#subdirectory=kit" dojo-banner assets/banner.toml
+layout = "org"
+name = "Dojo Coding"
+tagline = "We proved it on ourselves first."
+alt = "Dojo Coding: we proved it on ourselves first. One team to build, launch, and grow your product. AI-native product and growth studio in Costa Rica, Panamá and the US."
+headline = ["We proved it on", "[ourselves] first."]
+lede = "One team to build, launch, and grow your product."
+nameplate = "AI-native product & growth studio"
+offices = "Costa Rica · Panamá · US"
+
+[card]
+kind = "ledger"
+label = "Open source · GitHub"
+status = "MIT"
+rows = [
+  ["hacienda-cr", "E-invoicing SDK, CLI and MCP", "npm"],
+  ["asamblea-api", "Every vote in the Asamblea, as JSON", "API"],
+  ["remotion-superpowers", "A video studio for Claude Code", "plugin"],
+  ["code-sensei", "Learn to code while you build", "plugin"],
+]
