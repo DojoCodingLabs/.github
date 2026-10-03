@@ -1,59 +1,100 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/logo.png" alt="Dojo Coding" width="200">
+<p align="center">
+  <a href="https://dojocoding.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/banner-light.svg">
+      <img alt="Dojo Coding: we proved it on ourselves first. One team to build, launch, and grow your product. AI-native product and growth studio in Costa Rica, Panamá and the US." src="https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/banner-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
 
-  <h1>Dojo Coding</h1>
+**Dojo Coding is an AI-native product and growth studio headquartered in Costa Rica.** It builds,
+launches, and grows products for founders and companies, with work shipped for Tether, Starknet, and
+CERN's Open Quantum Institute, and builds companies of its own, including Rally, Humanbadge, and
+AvanteLab (a joint venture with Garnier & Garnier). It is an OpenAI Select Partner and part of Google
+for Startups. The studio runs on [Dojo](https://trydojo.io), its flagship product.
 
-  <p><strong>AI-native software studio and venture lab. Costa Rica, since 2023.</strong></p>
+[dojocoding.io](https://dojocoding.io) · [The Record](https://www.dojocoding.io/record) ·
+[trydojo.io](https://trydojo.io) · [X](https://x.com/dojo_coding) ·
+[YouTube](https://www.youtube.com/@DojoCoding) · [Instagram](https://instagram.com/dojocoding_)
 
-  <p>
-    <a href="https://dojocoding.io">dojocoding.io</a> ·
-    <a href="https://trydojo.io">trydojo.io</a> ·
-    <a href="https://www.dojocoding.io/record">The Record</a> ·
-    <a href="https://x.com/dojo_coding">X</a> ·
-    <a href="https://www.youtube.com/@DojoCoding">YouTube</a> ·
-    <a href="https://instagram.com/dojocoding_">Instagram</a>
-  </p>
-</div>
+## Three ways in
 
-## We proved it on ourselves first.
+Where you are decides where we start. The team, the engine, and the standard of proof are the same.
 
-Dojo Coding is a proving studio: an AI-native software studio in Costa Rica that sells only methods it has already run on ventures it owns. It ships production software for clients including Tether, Starknet, and CERN's Open Quantum Institute, builds companies of its own including Rally, Humanbadge, and Tomatometro, and runs every engagement on Dojo, its flagship product.
-
-Not an agency. Not a bootcamp. Not a marketplace. A studio that builds, and keeps the receipts.
-
----
-
-## One company, two doors
-
-|  | **Dojo Coding** | **Dojo** |
+| Launch | Grow | Transform |
 |---|---|---|
-| **What it is** | The studio. An AI-native software studio and venture lab. | The product. A builder lifecycle agent. |
-| **Who it's for** | Companies that need software shipped, with a number and a date that hold. | Builders who already ship and want it to count. |
-| **Where** | [dojocoding.io](https://dojocoding.io) | [trydojo.io](https://trydojo.io) |
-| **The line** | *We proved it on ourselves first.* | *Your work compounds here. Forever.* |
+| You're launching a new product. We take it from vision to first customers. | You have a product. You need more customers. We find the bottleneck in your funnel and fix it end to end. | You run an established business. AI changes what it can be. We rebuild how the company builds, sells, and operates. |
+| **We scope to:** a product in market with its first customers, on the record. | **We scope to:** a measured lift in the number you care about, with the baseline dated. | **We scope to:** one workflow or product live in production inside the first weeks, not a roadmap deck. |
 
-Dojo Coding is the company. Dojo is what it built. Clients pay the studio, the studio runs on Dojo, and Dojo's ranked builders ship the client work. One engine, two doors.
+Not sure which door? [Bring us the problem.](https://dojocoding.io)
 
-Naming, for the record: **Dojo Coding** (two words) is the company. **Dojo** (one word, title case) is the product. **Doji** is the agent inside it. The **Dojo Score** is the record it keeps. Dojo is unrelated to the Dojo JavaScript toolkit and to the Dojo game engine.
+## Open source
 
----
+Everything we sell runs on our own company first. Most of it runs as code, and this is where that code lives.
 
-## 🚀 What we do
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/DojoCodingLabs/hacienda-cr"><img src="https://raw.githubusercontent.com/DojoCodingLabs/hacienda-cr/main/docs/assets/hacienda-cr-banner.png" alt="Hacienda CR: electronic invoicing for Costa Rica. SDK, CLI and MCP." width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/DojoCodingLabs/asamblea-api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DojoCodingLabs/asamblea-api/master/docs/assets/banner-dark.svg"><img src="https://raw.githubusercontent.com/DojoCodingLabs/asamblea-api/master/docs/assets/banner-light.svg" alt="asamblea-api: Costa Rica's Asamblea Legislativa, as open data." width="100%"></picture></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/DojoCodingLabs/remotion-superpowers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DojoCodingLabs/remotion-superpowers/main/docs/assets/banner-dark.svg"><img src="https://raw.githubusercontent.com/DojoCodingLabs/remotion-superpowers/main/docs/assets/banner-light.svg" alt="Remotion Superpowers: a full video studio for Claude Code." width="100%"></picture></a></td>
+    <td width="50%"><a href="https://github.com/DojoCodingLabs/code-sensei"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DojoCodingLabs/code-sensei/main/docs/assets/banner-dark.svg"><img src="https://raw.githubusercontent.com/DojoCodingLabs/code-sensei/main/docs/assets/banner-light.svg" alt="CodeSensei: learn to code while you build." width="100%"></picture></a></td>
+  </tr>
+</table>
 
-![Hackathon Event](https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/hackathon.jpg)
+**SDKs, APIs and starters**
 
-### The studio · [dojocoding.io](https://dojocoding.io)
+- [`hacienda-cr`](https://github.com/DojoCodingLabs/hacienda-cr) · TypeScript SDK, CLI, and MCP server for Costa Rica electronic invoicing (Hacienda API).
+- [`asamblea-api`](https://github.com/DojoCodingLabs/asamblea-api) · Open API for Costa Rica's Asamblea Legislativa: bills, diputados, plenary sessions, every nominal vote and session video.
+- [`avax-tether-wdk-starter`](https://github.com/DojoCodingLabs/avax-tether-wdk-starter) · Avalanche C-Chain starter on Scaffold-ETH 2, built on the Tether Wallet Development Kit.
+- [`trustless-work-dart`](https://github.com/DojoCodingLabs/trustless-work-dart) · Dart client, Flutter storage, and Riverpod providers for Trustless Work escrow on Stellar/Soroban.
+- [`whatsapp-adapter`](https://github.com/DojoCodingLabs/whatsapp-adapter) · A WhatsApp SDK and an MCP server, shipped as two coordinated packages.
+- [`tomatometro-public`](https://github.com/DojoCodingLabs/tomatometro-public) · Tomatometro, public sentiment polling for electoral candidates.
 
-- **Client builds.** Fixed scope, outcomes billed, working software every week from week one. Delivered by senior pods running on Dojo. Shipped for Tether, Starknet, CERN's Open Quantum Institute, and dozens of clients.
-- **Ventures on our own books.** [Rally](https://dojocoding.io/#ventures) (event communities that live year-round), [Humanbadge](https://dojocoding.io/#ventures) (proof of humanity, a drop-in CAPTCHA replacement), [Tomatometro](https://dojocoding.io/#ventures) (citizen ratings for politicians), and [AvanteLab](https://www.avantelab.ai/) (AI workforce transformation, a joint venture with Garnier & Garnier). What we learn building our own, we ship to yours.
-- **Studio productions.** The largest Web3 hackathon in Central America, and Quantathon CR, the region's first quantum hackathon, co-produced with CERN's Open Quantum Institute. 5,000+ builders in the network across 10+ countries. $1M+ in grants facilitated.
-- **The Record.** What we ship, published weekly, dated, in two languages. No adjectives a screenshot couldn't defend. → [dojocoding.io/record](https://www.dojocoding.io/record)
+**Claude Code plugins**
 
-### Dojo · [trydojo.io](https://trydojo.io)
+- [`remotion-superpowers`](https://github.com/DojoCodingLabs/remotion-superpowers) · A full video production studio for Remotion: voiceovers, music, stock footage, captions, and an AI review loop.
+- [`code-sensei`](https://github.com/DojoCodingLabs/code-sensei) · Learn to code while you build: explanations, micro-quizzes, and belt progression.
+- [`dojowatch`](https://github.com/DojoCodingLabs/dojowatch) · AI-native visual regression testing, as a plugin plus GitHub Actions.
+- [`GTM-Engineering-Command-Center`](https://github.com/DojoCodingLabs/GTM-Engineering-Command-Center) · Media planning, ad creation, campaign deployment, and metrics.
+- [`app-gtm-release-toolkit`](https://github.com/DojoCodingLabs/app-gtm-release-toolkit) · Take a Flutter app to Google Play and the App Store in 24 hours, with validation gates.
+- [`make-no-mistakes-toolkit`](https://github.com/DojoCodingLabs/make-no-mistakes-toolkit) · A disciplined dev lifecycle: implement issues, review PRs, sync releases, test end to end.
+- [`claude-code-waypoint`](https://github.com/DojoCodingLabs/claude-code-waypoint) · Persistent memory and context management for Claude Code projects.
+- [`juan-workflow`](https://github.com/DojoCodingLabs/juan-workflow) · Development guardrails for the full lifecycle: spike, code, PR, review, handoff.
+- [`srd-framework`](https://github.com/DojoCodingLabs/srd-framework) · Synthetic Reality Development: a backwards-from-success product method for AI-native teams. [`opencode-srd-framework`](https://github.com/DojoCodingLabs/opencode-srd-framework) brings it to OpenCode.
 
-Dojo is a builder lifecycle agent: one agent that runs a builder's working life from learning to earning to competing to launching, and keeps a verified record of it. Built by Dojo Coding and live at trydojo.io, Dojo is home to more than 5,000 builders across 10+ countries and issues the Dojo Score, a record that is earned, never bought.
+**MCP servers**
 
-You talk to Doji, the agent, and it routes you into the right pillar:
+- [`dojo-marketplace-mcp`](https://github.com/DojoCodingLabs/dojo-marketplace-mcp) · Search, browse, and install from the Dojo Marketplace.
+- [`nanobanana-mcp`](https://github.com/DojoCodingLabs/nanobanana-mcp) · A hardened MCP server for Gemini image generation.
+- [`mcp-metricool`](https://github.com/DojoCodingLabs/mcp-metricool) · Schedule social posts, read analytics, and find the best posting times on Metricool.
+
+**The studio's toolkits**
+
+- [`launchpad-toolkit`](https://github.com/DojoCodingLabs/launchpad-toolkit) · AI intake, cap table, co-founder and investor matching, and demo day prep.
+- [`venture-studio-toolkit`](https://github.com/DojoCodingLabs/venture-studio-toolkit) · Portfolio management for venture studios and serial founders, LATAM corporate structures included.
+- [`business-model-toolkit`](https://github.com/DojoCodingLabs/business-model-toolkit) · Guided business model work, from problem validation to the investor pitch.
+- [`instructional-design-toolkit`](https://github.com/DojoCodingLabs/instructional-design-toolkit) · cmi5-compliant courses and 1-on-1 session plans.
+- [`ux-research-toolkit`](https://github.com/DojoCodingLabs/ux-research-toolkit) · Guided UX research: experience and journey maps, JSON-first, with interactive HTML.
+- [`atomic-design-toolkit`](https://github.com/DojoCodingLabs/atomic-design-toolkit) · Atomic Design for Flutter and Vite: decompose features and audit the codebase.
+- [`dojo-coding-playbooks`](https://github.com/DojoCodingLabs/dojo-coding-playbooks) · The studio's official playbooks.
+
+**Tools**
+
+- [`youtube-extractor-tool`](https://github.com/DojoCodingLabs/youtube-extractor-tool) · Turns YouTube videos into structured markdown reports with insights and key moments.
+- [`meridian`](https://github.com/DojoCodingLabs/meridian) · Predict market reception, conversion, and revenue before launch, with swarm simulation.
+
+Every public repo carries the same frame: a banner made with [`kit/`](https://github.com/DojoCodingLabs/.github/tree/main/kit),
+badges in the studio's colors, and the Dojo Coding mark. [All repositories →](https://github.com/orgs/DojoCodingLabs/repositories)
+
+## Dojo, the product
+
+[Dojo](https://trydojo.io) is the agent that runs every engagement: one agent that orchestrates a
+builder's full lifecycle, from learning to earning to competing to launching, and keeps a verified
+record of it. It is home to 5,000+ builders across 10+ countries and issues the Dojo Score, a
+record that is earned, never bought.
 
 | Pillar | What you do there |
 |---|---|
@@ -64,89 +105,43 @@ You talk to Doji, the agent, and it routes you into the right pillar:
 | **Marketplace** | Contribute to open source. |
 | **Community** | Teach, and get attested by the builders you taught. |
 
-One agent, one profile, one Dojo Score. Every verified action compounds into a record that travels with you and never resets.
+Naming, for the record: **Dojo Coding** (two words) is the company. **Dojo** (one word) is the
+product. **Doji** is the agent inside it. The **Dojo Score** is the record it keeps. Dojo is
+unrelated to the Dojo JavaScript toolkit and to the Dojo game engine.
 
-**Learn. Earn. Compete. Launch.**
+## The Record
 
-![Startup House](https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/startuphouse.jpg)
+What we ship, published dated and in two languages. No adjectives a screenshot couldn't defend.
+[dojocoding.io/record](https://www.dojocoding.io/record)
 
----
+## Build with us
 
-## 🧰 What lives in this org
+- **Builders:** start at [trydojo.io](https://trydojo.io). Talk to Doji, ship, and start your record.
+- **Companies:** [dojocoding.io](https://dojocoding.io). You'll know in two minutes if we should build together.
+- **Open source:** every public repo here takes issues and pull requests. Small and shippable beats large and pending.
 
-Every method we sell runs on our own company first. Most of it runs as code, and this is where that code lives: SDKs shipped for partners, Claude Code plugins, MCP servers, and the toolkits our pods work from.
+## Contact
 
-**Shipped for partners**
-
-- [`avax-tether-wdk-starter`](https://github.com/DojoCodingLabs/avax-tether-wdk-starter) · Avalanche C-Chain starter on Scaffold-ETH 2, built on the Tether Wallet Development Kit.
-- [`hacienda-cr`](https://github.com/DojoCodingLabs/hacienda-cr) · TypeScript SDK, CLI, and MCP server for Costa Rica electronic invoicing (Hacienda API).
-- [`trustless-work-dart`](https://github.com/DojoCodingLabs/trustless-work-dart) · Dart client, Flutter storage, and Riverpod providers for Trustless Work escrow on Stellar/Soroban.
-
-**Plugins and MCP servers**
-
-- [`remotion-superpowers`](https://github.com/DojoCodingLabs/remotion-superpowers) · A full video production studio for Remotion, as a Claude Code plugin.
-- [`app-gtm-release-toolkit`](https://github.com/DojoCodingLabs/app-gtm-release-toolkit) · Take a Flutter app to Google Play and the App Store in 24 hours, with validation gates and persistent checkpoints.
-- [`dojowatch`](https://github.com/DojoCodingLabs/dojowatch) · AI-native visual regression testing: Claude Code plugin plus GitHub Actions.
-- [`GTM-Engineering-Command-Center`](https://github.com/DojoCodingLabs/GTM-Engineering-Command-Center) · Media planning, ad creation, campaign deployment, and metrics, as a Claude Code plugin.
-- [`claude-code-waypoint`](https://github.com/DojoCodingLabs/claude-code-waypoint) · Persistent memory and context management for Claude Code projects.
-- [`dojo-marketplace-mcp`](https://github.com/DojoCodingLabs/dojo-marketplace-mcp) · MCP server for the Dojo Marketplace: search, browse, and install from Claude Code.
-
-**The studio's toolkits**
-
-- [`srd-framework`](https://github.com/DojoCodingLabs/srd-framework) · Synthetic Reality Development: backwards-from-success product methodology for AI-native teams.
-- [`launchpad-toolkit`](https://github.com/DojoCodingLabs/launchpad-toolkit) · AI intake, cap table, co-founder matching, investor matching, and demo day prep.
-- [`venture-studio-toolkit`](https://github.com/DojoCodingLabs/venture-studio-toolkit) · Portfolio management for venture studios and serial founders, LATAM corporate structures included.
-- [`instructional-design-toolkit`](https://github.com/DojoCodingLabs/instructional-design-toolkit) · cmi5-compliant instructional design and 1-on-1 session plans.
-- [`ux-research-toolkit`](https://github.com/DojoCodingLabs/ux-research-toolkit) · Guided UX research: experience mapping, JSON-first, with interactive HTML output.
-
-[All repositories →](https://github.com/orgs/DojoCodingLabs/repositories)
-
----
-
-## 🔑 Get started
-
-- **Builders** → [trydojo.io](https://trydojo.io). Talk to Doji, ship, and start your record.
-- **Companies** → [dojocoding.io](https://dojocoding.io). You'll know in two minutes if we should build together.
-- **Everyone** → read [The Record](https://www.dojocoding.io/record), follow [@dojo_coding](https://x.com/dojo_coding), watch [@DojoCoding](https://www.youtube.com/@DojoCoding).
-
----
-
-## 🤝 Contributing
-
-We build in the open. Every public repo here takes issues and pull requests.
-
-- Open an issue when something breaks or a doc lies.
-- Send a pull request to any toolkit or plugin. Small and shippable beats large and pending.
-- Build with us at a hackathon.
-
-Contributing guidelines: `CONTRIBUTING.md` *(coming soon)*.
-
----
-
-## 📜 License
-
-Content and resources in this repository are released under the **MIT License**. Each repository carries its own license file.
-
----
-
-## 📬 Contact
-
-- **Email**: [hello@dojocoding.io](mailto:hello@dojocoding.io)
-- **Daniel Bejarano**, CEO and Co-founder → [@0xBeja](https://x.com/0xBeja)
-- **Juan C. Guerrero**, CMO and Co-founder → [juancguerrero.com](https://juancguerrero.com)
-- **X**: [@dojo_coding](https://x.com/dojo_coding) · **Instagram**: [@dojocoding_](https://instagram.com/dojocoding_) · **YouTube**: [@DojoCoding](https://www.youtube.com/@DojoCoding)
-
----
+- **Email:** [hello@dojocoding.io](mailto:hello@dojocoding.io)
+- **Daniel Bejarano**, CEO and co-founder: [@0xBeja](https://x.com/0xBeja)
+- **Juan C. Guerrero**, CMO and co-founder: [juancguerrero.com](https://juancguerrero.com)
+- **X** [@dojo_coding](https://x.com/dojo_coding) · **Instagram** [@dojocoding_](https://instagram.com/dojocoding_) · **YouTube** [@DojoCoding](https://www.youtube.com/@DojoCoding)
 
 ## En español
 
-Dojo Coding es un estudio de software nativo de IA en Costa Rica que vende únicamente los métodos que ya corrió en empresas propias. Entrega software de producción para clientes como Tether, Starknet y el Open Quantum Institute del CERN, construye compañías propias como Rally, Humanbadge y Tomatometro, y opera cada proyecto sobre Dojo, su producto insignia.
+Dojo Coding es un estudio de producto y crecimiento nativo de IA con sede en Costa Rica. Construye,
+lanza y hace crecer productos para fundadores y empresas, con trabajo entregado para Tether, Starknet
+y el Open Quantum Institute del CERN, y construye compañías propias, incluyendo Rally, Humanbadge y
+AvanteLab (un joint venture con Garnier & Garnier). Es OpenAI Select Partner y forma parte de Google
+for Startups. El estudio corre sobre Dojo ([trydojo.io](https://trydojo.io)), su producto insignia:
+un agente que orquesta todo el ciclo de un builder, desde aprender hasta ganar, competir y lanzar.
+Oficinas en Costa Rica, Panamá y Estados Unidos.
 
-Dojo es un agente del ciclo completo del builder: un agente que opera la vida laboral de un builder, desde aprender hasta cobrar, competir y lanzar, y mantiene un registro verificado de todo. Construido por Dojo Coding y disponible en [trydojo.io](https://trydojo.io), Dojo reúne a más de 5,000 builders en más de 10 países y emite el Dojo Score, un registro que se gana y nunca se compra.
-
----
-
-<div align="center">
+<p align="center">
   <em>En esta casa de herrero, cuchillo de acero.</em><br>
   <sub>In this smith's house, the knives are steel.</sub>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://dojocoding.io"><img src="https://raw.githubusercontent.com/DojoCodingLabs/.github/main/assets/dojocoding-mark.png" alt="Dojo Coding" width="48"></a>
+</p>
