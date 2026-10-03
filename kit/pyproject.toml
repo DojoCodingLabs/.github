@@ -1,0 +1,18 @@
+[project]
+name = "dojo-readme-kit"
+version = "1.0.0"
+description = "README banners and figures in the dojocoding.io visual system"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = ["fonttools>=4.50", "uharfbuzz>=0.40"]
+
+[project.scripts]
+dojo-banner = "dojo_banner:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["dojo_banner"]
